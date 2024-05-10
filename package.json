@@ -1,0 +1,10 @@
+{
+  "name": "Senac",
+  "version": "1.0.0",
+  "description": "PTI",
+  "scripts": {
+    "build": "echo 'Build command placeholder'"
+  },
+  "author": "Seu Nome",
+  "license": "MIT"
+}
